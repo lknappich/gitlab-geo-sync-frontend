@@ -1,0 +1,6 @@
+name = "gitlab-geo-sync-frontend"
+compatibility_date = "2025-07-20"
+
+[build]
+command = "npm run build"
+output_dir = "dist"
